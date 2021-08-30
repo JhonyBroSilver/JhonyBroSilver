@@ -1,4 +1,4 @@
-### Olá, eu sou Jhony Vinicius, bem vindo ao meu perfil 👋
+### Olá, eu sou Jhony Vinicius e seja bem vindo(a) ao meu perfil! 👋
 
 - 🔭 Atualmente estou procurando um emprego;
 - 📚 Estou estudando HTML, CSS, Javascript, NodeJS e ReactJS;
